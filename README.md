@@ -22,7 +22,7 @@ Project Files
 * **README.md** - Project details
 
 Dashboard Preview
-[View Sales Dashboard PDF](Sales_Analysis_Dashboard.pdf)
+[View Sales Analysis Dashboard PDF](Sales%20Analysis%20Dashboard.pdf)
 
 Learning Outcomes
 Through this project, I improved my skills in data cleaning, dashboard designing, visualization, and presenting insights using Power BI.
